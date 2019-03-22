@@ -1,0 +1,151 @@
+2017-06-13/13:28:03  |   | NOTE  | There are 64 EncChannels Init Successfully!
+
+2017-06-13/13:28:03  |   | NOTE  | There are 4 DispChannels Init Successfully!
+
+2017-06-13/13:28:03  |   | NOTE  | Dsp Ver:0650-20130507,Driver Ver:0250-12050700,Sdk Ver:0650-20130507
+2017-06-13/13:28:15  |   | FAIL  | Read User Server Info error!
+2017-06-13/13:28:15  |   | FAIL  | Read User Group Info error!
+2017-06-13/13:28:21  | 00  | SUCC  | Channel 00 StartVideoCapture
+2017-06-13/13:28:21  | 01  | SUCC  | Channel 01 StartVideoCapture
+2017-06-13/13:28:22  | 02  | SUCC  | Channel 02 StartVideoCapture
+2017-06-13/13:28:22  | 03  | SUCC  | Channel 03 StartVideoCapture
+2017-06-13/13:28:22  | 04  | SUCC  | Channel 04 StartVideoCapture
+2017-06-13/13:28:22  | 05  | SUCC  | Channel 05 StartVideoCapture
+2017-06-13/13:28:22  | 06  | SUCC  | Channel 06 StartVideoCapture
+2017-06-13/13:28:22  | 07  | SUCC  | Channel 07 StartVideoCapture
+2017-06-13/13:28:22  | 08  | SUCC  | Channel 08 StartVideoCapture
+2017-06-13/13:28:22  | 09  | SUCC  | Channel 09 StartVideoCapture
+2017-06-13/13:28:22  | 10  | SUCC  | Channel 10 StartVideoCapture
+2017-06-13/13:28:22  | 11  | SUCC  | Channel 11 StartVideoCapture
+2017-06-13/13:28:22  | 12  | SUCC  | Channel 12 StartVideoCapture
+2017-06-13/13:28:22  | 13  | SUCC  | Channel 13 StartVideoCapture
+2017-06-13/13:28:22  | 14  | SUCC  | Channel 14 StartVideoCapture
+2017-06-13/13:28:22  | 15  | SUCC  | Channel 15 StartVideoCapture
+2017-06-13/13:28:22  | 16  | SUCC  | Channel 16 StartVideoCapture
+2017-06-13/13:28:22  | 17  | SUCC  | Channel 17 StartVideoCapture
+2017-06-13/13:28:22  | 18  | SUCC  | Channel 18 StartVideoCapture
+2017-06-13/13:28:22  | 19  | SUCC  | Channel 19 StartVideoCapture
+2017-06-13/13:28:22  | 20  | SUCC  | Channel 20 StartVideoCapture
+2017-06-13/13:28:22  | 21  | SUCC  | Channel 21 StartVideoCapture
+2017-06-13/13:28:22  | 22  | SUCC  | Channel 22 StartVideoCapture
+2017-06-13/13:28:22  | 23  | SUCC  | Channel 23 StartVideoCapture
+2017-06-13/13:28:22  | 24  | SUCC  | Channel 24 StartVideoCapture
+2017-06-13/13:28:22  | 25  | SUCC  | Channel 25 StartVideoCapture
+2017-06-13/13:28:22  | 26  | SUCC  | Channel 26 StartVideoCapture
+2017-06-13/13:28:22  | 27  | SUCC  | Channel 27 StartVideoCapture
+2017-06-13/13:28:22  | 28  | SUCC  | Channel 28 StartVideoCapture
+2017-06-13/13:28:22  | 29  | SUCC  | Channel 29 StartVideoCapture
+2017-06-13/13:28:22  | 30  | SUCC  | Channel 30 StartVideoCapture
+2017-06-13/13:28:22  | 31  | SUCC  | Channel 31 StartVideoCapture
+2017-06-13/13:28:22  | 32  | SUCC  | Channel 32 StartVideoCapture
+2017-06-13/13:28:22  | 33  | SUCC  | Channel 33 StartVideoCapture
+2017-06-13/13:28:22  | 34  | SUCC  | Channel 34 StartVideoCapture
+2017-06-13/13:28:22  | 35  | SUCC  | Channel 35 StartVideoCapture
+2017-06-13/13:28:22  | 36  | SUCC  | Channel 36 StartVideoCapture
+2017-06-13/13:28:22  | 37  | SUCC  | Channel 37 StartVideoCapture
+2017-06-13/13:28:22  | 38  | SUCC  | Channel 38 StartVideoCapture
+2017-06-13/13:28:22  | 39  | SUCC  | Channel 39 StartVideoCapture
+2017-06-13/13:28:22  | 40  | SUCC  | Channel 40 StartVideoCapture
+2017-06-13/13:28:22  | 41  | SUCC  | Channel 41 StartVideoCapture
+2017-06-13/13:28:22  | 42  | SUCC  | Channel 42 StartVideoCapture
+2017-06-13/13:28:22  | 43  | SUCC  | Channel 43 StartVideoCapture
+2017-06-13/13:28:22  | 44  | SUCC  | Channel 44 StartVideoCapture
+2017-06-13/13:28:22  | 45  | SUCC  | Channel 45 StartVideoCapture
+2017-06-13/13:28:22  | 46  | SUCC  | Channel 46 StartVideoCapture
+2017-06-13/13:28:22  | 47  | SUCC  | Channel 47 StartVideoCapture
+2017-06-13/13:28:22  | 48  | SUCC  | Channel 48 StartVideoCapture
+2017-06-13/13:28:22  | 49  | SUCC  | Channel 49 StartVideoCapture
+2017-06-13/13:28:23  | 50  | SUCC  | Channel 50 StartVideoCapture
+2017-06-13/13:28:23  | 51  | SUCC  | Channel 51 StartVideoCapture
+2017-06-13/13:28:23  | 52  | SUCC  | Channel 52 StartVideoCapture
+2017-06-13/13:28:23  | 53  | SUCC  | Channel 53 StartVideoCapture
+2017-06-13/13:28:23  | 54  | SUCC  | Channel 54 StartVideoCapture
+2017-06-13/13:28:23  | 55  | SUCC  | Channel 55 StartVideoCapture
+2017-06-13/13:28:23  | 56  | SUCC  | Channel 56 StartVideoCapture
+2017-06-13/13:28:23  | 57  | SUCC  | Channel 57 StartVideoCapture
+2017-06-13/13:28:23  | 58  | SUCC  | Channel 58 StartVideoCapture
+2017-06-13/13:28:23  | 59  | SUCC  | Channel 59 StartVideoCapture
+2017-06-13/13:28:23  | 60  | SUCC  | Channel 60 StartVideoCapture
+2017-06-13/13:28:23  | 61  | SUCC  | Channel 61 StartVideoCapture
+2017-06-13/13:28:23  | 62  | SUCC  | Channel 62 StartVideoCapture
+2017-06-13/13:28:23  | 63  | SUCC  | Channel 63 StartVideoCapture
+2017-06-13/13:29:10  | 00  | FAIL  | chan:0 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 01  | FAIL  | chan:1 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 02  | FAIL  | chan:2 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 03  | FAIL  | chan:3 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 04  | FAIL  | chan:4 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 05  | FAIL  | chan:5 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 06  | FAIL  | chan:6 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 07  | FAIL  | chan:7 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 08  | FAIL  | chan:8 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 09  | FAIL  | chan:9 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 10  | FAIL  | chan:10 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 11  | FAIL  | chan:11 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 12  | FAIL  | chan:12 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 13  | FAIL  | chan:13 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 14  | FAIL  | chan:14 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 15  | FAIL  | chan:15 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 16  | FAIL  | chan:16 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 17  | FAIL  | chan:17 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 18  | FAIL  | chan:18 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 19  | FAIL  | chan:19 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 20  | FAIL  | chan:20 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 21  | FAIL  | chan:21 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 22  | FAIL  | chan:22 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 23  | FAIL  | chan:23 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 24  | FAIL  | chan:24 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 25  | FAIL  | chan:25 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 26  | FAIL  | chan:26 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 27  | FAIL  | chan:27 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 28  | FAIL  | chan:28 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 29  | FAIL  | chan:29 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 30  | FAIL  | chan:30 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 31  | FAIL  | chan:31 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 32  | FAIL  | chan:32 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 33  | FAIL  | chan:33 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 34  | FAIL  | chan:34 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 35  | FAIL  | chan:35 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 36  | FAIL  | chan:36 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 37  | FAIL  | chan:37 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 38  | FAIL  | chan:38 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 39  | FAIL  | chan:39 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 40  | FAIL  | chan:40 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 41  | FAIL  | chan:41 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 42  | FAIL  | chan:42 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 43  | FAIL  | chan:43 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 44  | FAIL  | chan:44 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 45  | FAIL  | chan:45 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 46  | FAIL  | chan:46 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 47  | FAIL  | chan:47 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 48  | FAIL  | chan:48 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 49  | FAIL  | chan:49 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 50  | FAIL  | chan:50 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 51  | FAIL  | chan:51 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 52  | FAIL  | chan:52 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 53  | FAIL  | chan:53 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 54  | FAIL  | chan:54 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 55  | FAIL  | chan:55 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 56  | FAIL  | chan:56 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 57  | FAIL  | chan:57 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 58  | FAIL  | chan:58 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 59  | FAIL  | chan:59 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 60  | FAIL  | chan:60 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 61  | FAIL  | chan:61 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 62  | FAIL  | chan:62 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-13/13:29:10  | 63  | FAIL  | chan:63 RefreshEncVideoPreview failed, ret=c0000003
+2017-06-20/07:44:34  | 16  | FAIL  | Channel 16 StopVideoPreview failed, ret=c0000016
+2017-06-20/07:44:46  | 17  | FAIL  | Channel 17 StopVideoPreview failed, ret=c0000016
+2017-06-20/07:45:11  | 18  | FAIL  | Channel 18 StopVideoPreview failed, ret=c0000016
+2017-06-20/07:45:14  | 19  | FAIL  | Channel 19 StopVideoPreview failed, ret=c0000016
+2017-06-20/07:45:17  | 20  | FAIL  | Channel 20 StopVideoPreview failed, ret=c0000016
+2017-06-20/07:45:20  | 21  | FAIL  | Channel 21 StopVideoPreview failed, ret=c0000016
+2017-06-20/07:45:23  | 22  | FAIL  | Channel 22 StopVideoPreview failed, ret=c0000016
+2017-06-20/07:45:26  | 23  | FAIL  | Channel 23 StopVideoPreview failed, ret=c0000016
+2017-06-20/07:45:33  | 24  | FAIL  | Channel 24 StopVideoPreview failed, ret=c0000016
+2017-06-20/07:45:36  | 25  | FAIL  | Channel 25 StopVideoPreview failed, ret=c0000016
+2017-06-20/07:45:39  | 26  | FAIL  | Channel 26 StopVideoPreview failed, ret=c0000016
+2017-06-20/07:45:43  | 27  | FAIL  | Channel 27 StopVideoPreview failed, ret=c0000016
+2017-06-20/07:45:46  | 28  | FAIL  | Channel 28 StopVideoPreview failed, ret=c0000016
+2017-06-20/07:45:49  | 29  | FAIL  | Channel 29 StopVideoPreview failed, ret=c0000016
+2017-06-20/07:45:52  | 30  | FAIL  | Channel 30 StopVideoPreview failed, ret=c0000016
+2017-06-20/07:45:55  | 31  | FAIL  | Channel 31 StopVideoPreview failed, ret=c0000016

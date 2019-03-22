@@ -1,0 +1,7 @@
+2017-08-09/14:09:17  |   | NOTE  | There are 64 EncChannels Init Successfully!
+
+2017-08-09/14:09:17  |   | NOTE  | There are 4 DispChannels Init Successfully!
+
+2017-08-09/14:09:17  |   | NOTE  | Dsp Ver:0650-20130507,Driver Ver:0250-12050700,Sdk Ver:0650-20130507
+2017-08-09/14:09:24  |   | FAIL  | Read User Server Info error!
+2017-08-09/14:09:24  |   | FAIL  | Read User Group Info error!
